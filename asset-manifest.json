@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PlantWise/static/css/main.995a4a73.css",
+    "main.js": "/PlantWise/static/js/main.0616320b.js",
+    "static/js/453.be57e7d3.chunk.js": "/PlantWise/static/js/453.be57e7d3.chunk.js",
+    "static/media/divya_image.jpeg": "/PlantWise/static/media/divya_image.f35ab27f92e59b579d0e.jpeg",
+    "static/media/logo.png": "/PlantWise/static/media/logo.fc20f50a8b07cb16fc65.png",
+    "index.html": "/PlantWise/index.html",
+    "main.995a4a73.css.map": "/PlantWise/static/css/main.995a4a73.css.map",
+    "main.0616320b.js.map": "/PlantWise/static/js/main.0616320b.js.map",
+    "453.be57e7d3.chunk.js.map": "/PlantWise/static/js/453.be57e7d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995a4a73.css",
+    "static/js/main.0616320b.js"
+  ]
+}
