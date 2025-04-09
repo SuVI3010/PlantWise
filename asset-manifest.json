@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.995a4a73.css",
+    "main.js": "/static/js/main.e2b6b208.js",
+    "static/js/453.be57e7d3.chunk.js": "/static/js/453.be57e7d3.chunk.js",
+    "static/media/divya_image.jpeg": "/static/media/divya_image.f35ab27f92e59b579d0e.jpeg",
+    "static/media/logo.png": "/static/media/logo.65490857bd64a7073a3d.png",
+    "index.html": "/index.html",
+    "main.995a4a73.css.map": "/static/css/main.995a4a73.css.map",
+    "main.e2b6b208.js.map": "/static/js/main.e2b6b208.js.map",
+    "453.be57e7d3.chunk.js.map": "/static/js/453.be57e7d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995a4a73.css",
+    "static/js/main.e2b6b208.js"
+  ]
+}
